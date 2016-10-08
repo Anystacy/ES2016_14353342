@@ -28,10 +28,10 @@ DOL Mapping Optimization
 
 5. 配置DOL  
 	- 进入DOL文件夹，根据当前路径修改build_zip.xml文件中路径    
-	![motify_dol](https://cl.ly/0j2j1o1k2V1L/screen1.png)  
+	![motify_dol](img/screen1.png) 
 	- 用ant语句编译该文件  
-	![run_dol](https://cl.ly/0O0i2Y3x0N2L/screen2-1.png)    
-	![run_dol2](https://cl.ly/2K0t1A301S2u/screen2-2.png)  
+	![run_dol](img/screen2-1.png)    
+	![run_dol2](img/screen2-2.png)  
 	- 
 	
 ## Experimental experience
